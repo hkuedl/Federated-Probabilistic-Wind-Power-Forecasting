@@ -16,7 +16,7 @@ conda env create -f environment.yml
 ```
 
 ## Experiments
-There are five forecasting settings in this work and the code for these settings is organized in the same way. The results and models are saved in ```result```.
+There are five forecasting settings in this work and the code for these settings is organized in the same way. The results and models are saved in ```https://drive.google.com/drive/folders/17qs0H3TlKMRQcyTvJHz3r-gSU_MO5KGS?usp=drive_link```.
 
 ### Data
 All the clean data for experiments are saved in ```Data/GFC12```. 
